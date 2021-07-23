@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+div{
+    text-align: center;
+  }
+
+.tile{
+    width: 100px; 
+    height:100px;
+    background-color: #f3970c;
+    font-size: x-large;
+}
+
